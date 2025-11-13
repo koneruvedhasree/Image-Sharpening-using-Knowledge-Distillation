@@ -1,7 +1,0 @@
-torch
-torchvision
-datasets
-torchmetrics
-matplotlib
-Pillow
-tqdm
